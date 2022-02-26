@@ -1,0 +1,11 @@
+===============
+https://www.guru99.com/linux-pipe-grep.html
+
+
+===============
+https://www.guru99.com/linux-pipe-grep.html
+https://www.freecodecamp.org/news/the-linux-awk-command-linux-and-unix-usage-syntax-examples/
+
+
+-----------------------
+https://phoenixnap.com/kb/rename-file-linux

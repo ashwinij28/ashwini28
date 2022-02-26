@@ -1,0 +1,10 @@
+total 14813
+drwxr-xr-x 1 Ashwini 197121       0 Feb 20 14:32 ./
+drwxr-xr-x 1 Ashwini 197121       0 Feb 19 09:53 ../
+drwxr-xr-x 1 Ashwini 197121       0 Feb 19 09:53 .git/
+-rw-r--r-- 1 Ashwini 197121      15 Feb 19 09:53 README.md
+-rw-r--r-- 1 Ashwini 197121  826022 Feb 19 09:53 access.log
+-rw-r--r-- 1 Ashwini 197121       0 Feb 20 14:31 data.csv
+-rw-r--r-- 1 Ashwini 197121 8260403 Feb 19 09:53 linux_chit_sheet.pdf
+-rw-r--r-- 1 Ashwini 197121 6065809 Feb 19 09:53 linux_problem_sheet.pdf
+-rw-r--r-- 1 Ashwini 197121       0 Feb 20 14:32 listings

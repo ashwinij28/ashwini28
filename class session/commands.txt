@@ -1,0 +1,28 @@
+ 323  csv | grep CAPTAIN | awk '{print $3}'
+  324  data.csv | grep CAPTAIN |awk '{print $3}'
+  325  grep CAPTAIN
+  326  grep hel[p
+  327  grep CAPTAIN data.csv
+  328  grep CAPTAIN | awk '{print $3}'
+  329  grep -o CAPTAIN data.csv
+  330  csv | grep CAPTAIN | awk '{print $3}'
+  331  data.csv | grep CAPTAIN | awk '{print $3}'
+  332  date
+  333  dat +%r
+  334  date +%r
+  335  date +%T
+  336  date +%R
+  337  date | awk '{print $4}'
+  338  date +"%A %B %C"
+  339  grep -i data.csv
+  340  grep -i "CAPTAIN" data.csv
+  341  grep -i "Captain" data.csv
+  342  grep -c "Captain" data.csv
+  343  grep -c "CAPTAIN" data.csv
+  344  grep -c "CAPTAIN" data.csv
+  345  grep -l "CAPTAIN" data.csv
+  346  grep -e "CAPTAIN" data.csv
+  347  grep -e "gary" data.csv
+  348  grep -v "CAPTAIN" data.csv
+  349  grep -e "GARY" data.csv
+  350  grep -e "GARY" -e "Gary" data.csv
